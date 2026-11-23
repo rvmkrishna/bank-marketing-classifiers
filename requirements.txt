@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn>=1.2
+scipy
+matplotlib
+seaborn
+statsmodels>=0.14
+jupyterlab
